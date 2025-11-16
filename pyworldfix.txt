@@ -1,0 +1,1 @@
+pip install https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder/releases/download/v0.2.2/pyworld-0.2.2-cp310-cp310-win_amd64.whl
